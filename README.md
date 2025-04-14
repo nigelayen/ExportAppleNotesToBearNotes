@@ -6,3 +6,9 @@ after import. Fortunately, Apple Notes stores its notes as html and AppleScript 
 
 Occasionally I do have to edit after import to fix a few minor issues line Bear Notes not interpreting all html tags but I do have the bulk of the 
 text I need for each note, which can be easily imported into Bear Notes.
+
+## Usage
+- Save the file ExportAppleNotesToHTML.scpt to a local folder on your computer. 
+- Open Terminal app
+- Change to the folder where the script is saved.
+>% osascript ExportAppleNotesToHTML.scpt
